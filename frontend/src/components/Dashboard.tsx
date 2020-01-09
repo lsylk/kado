@@ -1,5 +1,5 @@
 import React from "react";
-import Header, { HeaderBucketProps } from "./header";
+import Header, { HeaderBucketProps } from "./HeaderBucket";
 
 const headers: HeaderBucketProps[] = [
   { header: "Backlog", meta: "", description: "" },
